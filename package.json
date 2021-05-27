@@ -1,0 +1,15 @@
+{
+  "name": "test-version",
+  "version": "0.0.1",
+  "description": "None",
+  "main": ".",
+  "repository": "https://github.com/webskydavid/version-testing.git",
+  "author": "Dawid",
+  "license": "MIT",
+  "devDependencies": {
+    "standard-version": "^9.3.0"
+  },
+  "scripts": {
+    "release": "standard-version"
+  }
+}
